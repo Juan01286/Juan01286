@@ -1,4 +1,4 @@
-## Hi there 👋
+Estudiante de segundo año de la carrera de Informática en Santo Tomás, con conocimientos en programación y estructuras de datos. Maneja lenguajes como Python y posee nociones en bases de datos, desarrollo web y sistemas operativos como Linux (Debian).
 
 <!--
 **Juan01286/Juan01286** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
